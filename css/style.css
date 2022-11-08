@@ -240,6 +240,10 @@ table {
     box-shadow: 3px 3px 4px black;
 }
 
+#projets>div>div>img {
+    max-width: 60%;
+}
+
 #projets>div>div>p {
     margin-right: 8%;
 }
